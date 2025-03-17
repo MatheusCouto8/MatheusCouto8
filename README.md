@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Matheus Couto
+# 👨‍💻 Matheus Couto
 
 **`Desenvolvedor`**
 
