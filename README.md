@@ -77,7 +77,7 @@ Gosto de aprender, me desafiar e aprimorar minhas habilidades para me preparar c
  <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="160" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MatheusCouto8&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
@@ -85,7 +85,7 @@ Gosto de aprender, me desafiar e aprimorar minhas habilidades para me preparar c
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="160" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCouto8&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
