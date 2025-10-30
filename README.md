@@ -6,7 +6,7 @@ Tenho 17 anos e estou no terceiro ano do Ensino Médio, cursando Desenvolvimento
 Apaixonado por tecnologia e estou sempre em busca de novas oportunidades e experiências para crescer na área.
 Gosto de aprender, me desafiar e aprimorar minhas habilidades para me preparar cada vez mais para o mercado de trabalho
 
-🔗 [Portfolio](https://matheuscouto-dev.netlify.app/)
+🔗 <a href="https://matheuscouto-dev.netlify.app/" target="_blank">Portfolio</a>
 
 ---
 
