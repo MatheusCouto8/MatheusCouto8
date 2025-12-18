@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Tenho 17 anos e estou no terceiro ano do Ensino Médio, cursando Desenvolvimento de Sistemas na escola SENAI Valinhos.
+Tenho 17 anos formado em Analise e Desenvolvimento de Sistemas na escola SENAI Valinhos.
 Apaixonado por tecnologia e estou sempre em busca de novas oportunidades e experiências para crescer na área.
 Gosto de aprender, me desafiar e aprimorar minhas habilidades para me preparar cada vez mais para o mercado de trabalho.
 
