@@ -73,22 +73,3 @@ Gosto de aprender, me desafiar e aprimorar minhas habilidades para me preparar c
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
- <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="160" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MatheusCouto8&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="160" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCouto8&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
