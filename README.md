@@ -6,7 +6,6 @@ Tenho 17 anos tecnico em Desenvolvimento de Sistemas pela escola SENAI Valinhos 
 Apaixonado por tecnologia e estou sempre em busca de novas oportunidades e experiências para crescer na área.
 Gosto de aprender, me desafiar e aprimorar minhas habilidades para me preparar cada vez mais para o mercado de trabalho.
 
-🔗 <a href="https://matheuscouto-dev.netlify.app/" target="_blank">Portfolio</a>
 
 ---
 
